@@ -1,9 +1,9 @@
 # frontend-mern-batch11am
 
-#npm install gh-pages --save-dev
+# npm install gh-pages --save-dev
 
 
-#in package.json add,
+# in package.json add,
 
 "homepage": "https://your-username.github.io/frontend-mern-batch11am"
 
@@ -64,7 +64,7 @@ Add deploy scripts in package.json:
 
 
 
-#in BrowserRouter add basename,
+# in BrowserRouter add basename,
 
 <BrowserRouter basename="/frontend-mern-batch11am">
   <Layout />
@@ -75,11 +75,11 @@ Add deploy scripts in package.json:
   </Routes>
 </BrowserRouter>
 
-#npm install
+# npm install
 
-#npm run deploy
+# npm run deploy
 
-#npm run build
+# npm run build
 
 
 
