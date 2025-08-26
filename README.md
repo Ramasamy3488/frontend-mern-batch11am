@@ -71,12 +71,10 @@ Add deploy scripts in package.json:
   
   <Layout />
   
-  <Routes>
-    
+  <Routes>    
     <Route exact path='/' element={<TraineeList />} />
     <Route path='/add' element={<TraineeAdd />} />
-    <Route path='/update' element={<TraineeUpdate />} />
-    
+    <Route path='/update' element={<TraineeUpdate />} />    
   </Routes>
   
 </BrowserRouter>
