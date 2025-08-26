@@ -64,12 +64,11 @@ Add deploy scripts in package.json:
 
 
 
-# in BrowserRouter add basename,
+# in BrowserRouter add basename 
 
-
-# <BrowserRouter basename="/frontend-mern-batch11am">
+# <BrowserRouter basename = "/frontend-mern-batch11am">
   
-  <Layout />
+  ## <Layout />
   
   <Routes>    
     <Route exact path='/' element={<TraineeList />} />
@@ -77,7 +76,7 @@ Add deploy scripts in package.json:
     <Route path='/update' element={<TraineeUpdate />} />    
   </Routes>
   
-</BrowserRouter>
+# </BrowserRouter>
 
 # npm install
 
