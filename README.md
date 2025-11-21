@@ -81,8 +81,6 @@ in BrowserRouter add basename
 
 # npm run deploy
 
-# npm run build
-
 
 
 ====================
