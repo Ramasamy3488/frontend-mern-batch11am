@@ -1,7 +1,5 @@
 # frontend-mern-batch11am
 
-# npm install gh-pages --save-dev
-
 
 # in package.json add,
 
